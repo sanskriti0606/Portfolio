@@ -1,26 +1,26 @@
 [
   {
-    "title": "Project A",
+    "title": " Spotify - Full stack Web development App",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "Built a full-stack Spotify like app with responsive UI, authentication, playlist management using Next.js, JWT, and MongoDB.",
+    "skills": ["React", "Express", "Node", "MongoDB"],
+    "demo": "https://spotify-app-inky.vercel.app/"
+  
   },
   {
-    "title": "Project B",
+    "title": "Quiz Platform - Frontend Development",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "Developed a web application for quiz creation, management, and gameplay using React and Material-UI.",
+    "skills": ["React", "HTML/CSS", "Vercel","Material-UI"],
+    "demo": "https://final-quiz-app-alpha.vercel.app/"
+  
   },
   {
-    "title": "Project C",
+    "title": "Walmart-Inspired WebApp-Frontend ",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "Designed a visually appealing Walmart-like interface using modern UI/UX principles. Used Firebase for reliable user authentication",
+    "skills": ["React", "Firebase", "Tailwind CSS"],
+    "demo": "https://walmartapp.vercel.app/"
+  
   }
 ]
